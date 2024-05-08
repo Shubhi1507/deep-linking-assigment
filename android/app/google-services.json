@@ -1,0 +1,186 @@
+{
+  "project_info": {
+    "project_number": "626659986923",
+    "project_id": "livee-d3110",
+    "storage_bucket": "livee-d3110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626659986923:android:c36361b740ae96d0029dae",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626659986923-4vkv742f3susonjmruokukh8mdhdlcnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment",
+            "certificate_hash": "eb619b31bbd4f9877c4c25be39a2753c9e4d5156"
+          }
+        },
+        {
+          "client_id": "626659986923-vqq802kq28q6u80ovu9atv6n91gvval8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-HLBVOClc4yUpsrNzOZ-cPFma-iItyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626659986923-dm39idg6r35ngdua1pjlahlda6pse3fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626659986923-6kepclhc1td4o9o9md6ml1dc7bkgv6dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.LiveeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626659986923:android:19683676f1b0cf91029dae",
+        "android_client_info": {
+          "package_name": "com.camplearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626659986923-fj8iueqs14rukjclvmlru4j4ov7v6ph0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.camplearn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "626659986923-vqq802kq28q6u80ovu9atv6n91gvval8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-HLBVOClc4yUpsrNzOZ-cPFma-iItyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626659986923-dm39idg6r35ngdua1pjlahlda6pse3fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626659986923-6kepclhc1td4o9o9md6ml1dc7bkgv6dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.LiveeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626659986923:android:7d6003a868eb6ebc029dae",
+        "android_client_info": {
+          "package_name": "com.testingfib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626659986923-32rqov189vc8na49fo8n1k0st5mkp8ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testingfib",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "626659986923-avmd4csjgtqrs402frbvs61iado44t1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testingfib",
+            "certificate_hash": "3e9bf58a4b962abda4358985aeff9d86059c4f4e"
+          }
+        },
+        {
+          "client_id": "626659986923-vqq802kq28q6u80ovu9atv6n91gvval8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-HLBVOClc4yUpsrNzOZ-cPFma-iItyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626659986923-dm39idg6r35ngdua1pjlahlda6pse3fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626659986923-6kepclhc1td4o9o9md6ml1dc7bkgv6dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.LiveeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626659986923:android:5ac1036b33b3d2f3029dae",
+        "android_client_info": {
+          "package_name": "com.yesMadam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626659986923-vqq802kq28q6u80ovu9atv6n91gvval8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv-HLBVOClc4yUpsrNzOZ-cPFma-iItyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626659986923-dm39idg6r35ngdua1pjlahlda6pse3fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626659986923-6kepclhc1td4o9o9md6ml1dc7bkgv6dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.LiveeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
